@@ -1,3 +1,5 @@
+# Extracting Stock Data (Netflix) Using a Web Scraping
+
 !pip install pandas
 !pip install requests
 !pip install bs4
